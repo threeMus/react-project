@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-project/static/css/main.917afe7a.css",
+    "main.js": "/react-project/static/js/main.fc82dc01.js",
+    "static/media/ava-3.jpg": "/react-project/static/media/ava-3.a51146f26dc185d8a93d.jpg",
+    "static/media/audi-offer.png": "/react-project/static/media/audi-offer.09484e833ac935ae202a.png",
+    "static/media/hyundai-offer.png": "/react-project/static/media/hyundai-offer.f48a02ebe8e540b1db8f.png",
+    "static/media/BMW-offer.png": "/react-project/static/media/BMW-offer.550c1d431996be49c38e.png",
+    "static/media/offer-toyota.png": "/react-project/static/media/offer-toyota.c2a79f4bcd03cfd3ae5d.png",
+    "static/media/remixicon.svg?t=1590207869815": "/react-project/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/ford-offer-2.png": "/react-project/static/media/ford-offer-2.430bea2cfc3a24ce1625.png",
+    "static/media/ford-offer.png": "/react-project/static/media/ford-offer.cc2abe4029fcdbeb5374.png",
+    "static/media/tesla-offer.png": "/react-project/static/media/tesla-offer.7465398d80d43d1280ea.png",
+    "static/media/slider-2.jpg": "/react-project/static/media/slider-2.5b2b965109f4bc54b4c7.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/react-project/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/react-project/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/slider-3.jpg": "/react-project/static/media/slider-3.ec88e931162a4e7d62e9.jpg",
+    "static/media/slider-1.jpg": "/react-project/static/media/slider-1.d0d7ad119d5d21bd2b41.jpg",
+    "static/media/mercedes-offer.png": "/react-project/static/media/mercedes-offer.92367aa6dcdc80d4b9ac.png",
+    "static/media/nissan-offer.png": "/react-project/static/media/nissan-offer.af03cc7d351c70bd1ca1.png",
+    "static/media/remixicon.woff?t=1590207869815": "/react-project/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/react-project/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/blog-1.jpg": "/react-project/static/media/blog-1.e4949dd1d3e0ec0543c5.jpg",
+    "static/media/ava-4.jpg": "/react-project/static/media/ava-4.fdea1b055cbf039c9462.jpg",
+    "static/media/blog-2.jpg": "/react-project/static/media/blog-2.dce2eeb8549652564638.jpg",
+    "static/media/ava-1.jpg": "/react-project/static/media/ava-1.a7b4adedcc7c32601dcb.jpg",
+    "static/media/blog-3.jpg": "/react-project/static/media/blog-3.0cd3766389d5b56badaa.jpg",
+    "static/media/ava-2.jpg": "/react-project/static/media/ava-2.7cb1a4965bf7d06f84b6.jpg",
+    "static/media/drive.jpg": "/react-project/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/slick.svg": "/react-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-project/index.html",
+    "main.917afe7a.css.map": "/react-project/static/css/main.917afe7a.css.map",
+    "main.fc82dc01.js.map": "/react-project/static/js/main.fc82dc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917afe7a.css",
+    "static/js/main.fc82dc01.js"
+  ]
+}
