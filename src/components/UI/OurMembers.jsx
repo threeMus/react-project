@@ -35,7 +35,7 @@ const OUR__MEMBERS = [
     twitUrl: "#",
     linkedinUrl: "#",
     imgUrl: ava04,
-  },
+  }
 ];
 
 const OurMembers = () => {

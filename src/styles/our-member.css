@@ -57,3 +57,10 @@
   top: 0;
   opacity: 1;
 }
+
+@media only screen and (max-width: 767px) {
+  .single_member_driver{
+    flex-direction: column; 
+    margin-left: 18%;
+  }
+}
